@@ -1,0 +1,1 @@
+//scanf is primarily used to get inouts form user
